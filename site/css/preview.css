@@ -1,0 +1,8 @@
+#wrapper>section {
+	margin: 0px auto;
+}
+.dynamicContent{
+	margin-left: 0;
+	left: 50%;
+	margin-left: -310px;
+}
